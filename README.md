@@ -33,10 +33,10 @@
 |WordPress 🇺🇸, WebFlow 🇺🇸, Wix 🇮🇱 | [SiteW](https://www.sitew.com/#fr)  , [Orson](https://fr.orson.io/) | | 
 |Betterworks, Perdoo | [Synapscore](https://synapscore.com/) | |
 |Kindle (Amazon)🇺🇸, Kobo 🇨🇦 | [Bookeen](https://bookeen.com/)| |
-|Miro, Whimsical | [Draft io]](https://draft.io/)||
+|Miro, Whimsical| [Draft io](https://draft.io/)| |
 |Bitly 🇺🇸, Linktree🇺🇸 | [Switchy](https://www.switchy.io/)||
 |workable 🇺🇸, temtailor 🇸🇪,recruitee 🇳🇱,Skeeled 🇱🇺|[Hiringmaster](https://hiring-master.com/)||
-|Mail chimp 🇺🇸 | [Dartagnan ](https://dartagnan.io/fr)||
+|Mail chimp 🇺🇸 | [Dartagnan](https://dartagnan.io/fr)||
 
 ## Contribute
 
