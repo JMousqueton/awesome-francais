@@ -37,6 +37,7 @@
 |Bitly 🇺🇸, Linktree🇺🇸 | [Switchy](https://www.switchy.io/)||
 |workable 🇺🇸, temtailor 🇸🇪,recruitee 🇳🇱,Skeeled 🇱🇺|[Hiringmaster](https://hiring-master.com/)||
 |Mail chimp 🇺🇸 | [Dartagnan](https://dartagnan.io/fr)||
+|wetransfert 🇳🇱 | [FranceTransfert](https://francetransfert.numerique.gouv.fr/upload)||
 
 ## Contribute
 
