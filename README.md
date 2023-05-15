@@ -39,6 +39,9 @@
 |Mail chimp 🇺🇸 | [Dartagnan](https://dartagnan.io/fr)||
 |wetransfert 🇳🇱 | [FranceTransfert](https://francetransfert.numerique.gouv.fr/upload)||
 | Airtable 🇺🇸 | [TimeTonic](https://www.timetonic.com)||
+| WhatsApp 🇺🇸 | [Olvid](https://www.olvid.io/fr/)||
+| Google Drive 🇺🇸, Microsoft OneDrive 🇺🇸 | [Oodrive](https://www.oodrive.com/)||
+| Zoom 🇺🇸 | [Tixeo](https://www.tixeo.com/)||
 
 ## Contribute
 
